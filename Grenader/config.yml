@@ -1,0 +1,5 @@
+Grenade:
+  Damage: 10
+  BlockDamage: true
+GL:
+  Damage: 10

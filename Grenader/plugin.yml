@@ -1,0 +1,9 @@
+name: Grenader
+author: [ NerdFuryz ]
+main: me.nerdfuryz.grenader.Grenader
+version: 1.9
+commands:
+  gl:
+    description: Using grenade luncher
+  ac130:
+    description: AC130 Is above
